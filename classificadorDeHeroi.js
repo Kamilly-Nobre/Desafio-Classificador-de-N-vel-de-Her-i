@@ -14,11 +14,11 @@ else if (xp >= 2001 && xp <= 5000) {
     nivel = "PRATA";
     console.log(`O herói de nome ${nomeHeroi} está no nível de ${nivel}`);
 }
-else if (xp >= 5001 && xp <= 6000) {
+else if (xp >= 5001 && xp <= 7000) {
     nivel = "OURO";
     console.log(`O herói de nome ${nomeHeroi} está no nível de ${nivel}`);
 }
-else if (xp >= 6001 && xp <= 8000) {
+else if (xp >= 7001 && xp <= 8000) {
     nivel = "PLATINA";
     console.log(`O herói de nome ${nomeHeroi} está no nível de ${nivel}`);
 }
